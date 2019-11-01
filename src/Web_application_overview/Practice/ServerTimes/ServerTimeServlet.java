@@ -1,4 +1,4 @@
-package ServerTimes;
+package Web_application_overview.Practice.ServerTimes;
 
 import javax.servlet.ServletException;
 import javax.servlet.annotation.WebServlet;
